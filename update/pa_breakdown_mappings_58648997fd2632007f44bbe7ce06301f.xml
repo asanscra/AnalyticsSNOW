@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="City">dc648997fd2632007f44bbe7ce06301c</breakdown>
+        <facts_table>x_60268_marketing_marketing_event</facts_table>
+        <field>city</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 19:58:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58648997fd2632007f44bbe7ce06301f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dc648997fd2632007f44bbe7ce06301c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_58648997fd2632007f44bbe7ce06301f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 19:58:40</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>

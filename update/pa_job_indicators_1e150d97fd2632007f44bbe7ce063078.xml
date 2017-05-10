@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>[Marketing Event] - Historic Load - Marketing Events this week</display>
+        <indicator display_value="Marketing Events this week">afc34597fd2632007f44bbe7ce063036</indicator>
+        <job display_value="[Marketing Event] - Historic Load">3d748197fd2632007f44bbe7ce0630c2</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 20:01:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e150d97fd2632007f44bbe7ce063078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Events this week.[Marketing Event] - Historic Load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+        <sys_update_name>pa_job_indicators_1e150d97fd2632007f44bbe7ce063078</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 20:01:49</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

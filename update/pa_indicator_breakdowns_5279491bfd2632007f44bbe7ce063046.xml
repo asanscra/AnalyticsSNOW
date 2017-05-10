@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="City">dc648997fd2632007f44bbe7ce06301c</breakdown>
+        <display>true</display>
+        <indicator display_value="% Full Marketing Events">bc48051bfd2632007f44bbe7ce063066</indicator>
+        <order>100</order>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 20:20:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5279491bfd2632007f44bbe7ce063046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>City.% Full Marketing Events</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_5279491bfd2632007f44bbe7ce063046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 20:20:55</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>

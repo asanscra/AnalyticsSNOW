@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-05-10 20:35:25">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 20:27:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e7da055bfd2632007f44bbe7ce0630ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+        <sys_update_name>sys_portal_page_e7da055bfd2632007f44bbe7ce0630ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 20:27:01</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Marketing Events with seats available</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                <sys_id>196b095bfd2632007f44bbe7ce0630d1</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_widget>
+                        <posx>4</posx>
+                        <posy>17</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>996b095bfd2632007f44bbe7ce0630d6</sys_id>
+                        <sys_mod_count>5</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_996b095bfd2632007f44bbe7ce0630d6</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:32:35</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_id>196b095bfd2632007f44bbe7ce0630d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                        <value>Marketing Events with seats available</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_id>916b095bfd2632007f44bbe7ce0630d6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                        <value>time</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_id>9d6b095bfd2632007f44bbe7ce0630d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                        <value>429789d7fd2632007f44bbe7ce0630f3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_id>9d6b095bfd2632007f44bbe7ce0630d4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:19">196b095bfd2632007f44bbe7ce0630d1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:19</sys_created_on>
+                        <sys_id>d16b095bfd2632007f44bbe7ce0630d5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:19</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Marketing Events this week</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                <sys_id>1b5bc55bfd2632007f44bbe7ce06305f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>7</height>
+                        <portal_widget display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_widget>
+                        <posx>0</posx>
+                        <posy>8</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>1f5b095bfd2632007f44bbe7ce0630d9</sys_id>
+                        <sys_mod_count>7</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_1f5b095bfd2632007f44bbe7ce0630d9</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:32:38</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_id>1b5bc55bfd2632007f44bbe7ce063063</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                        <value>Marketing Events this week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_id>935bc55bfd2632007f44bbe7ce063064</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                        <value>time</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_id>9f5bc55bfd2632007f44bbe7ce06305f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                        <value>2fc3c597fd2632007f44bbe7ce063057</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_id>9f5bc55bfd2632007f44bbe7ce063062</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:11">1b5bc55bfd2632007f44bbe7ce06305f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:11</sys_created_on>
+                        <sys_id>d35bc55bfd2632007f44bbe7ce063063</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:11</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Marketing Events this week</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                <sys_id>603b055bfd2632007f44bbe7ce0630ef</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>8</height>
+                        <portal_widget display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>683b055bfd2632007f44bbe7ce0630f5</sys_id>
+                        <sys_mod_count>9</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_683b055bfd2632007f44bbe7ce0630f5</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:32:38</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_id>203b055bfd2632007f44bbe7ce0630f4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                        <value>Marketing Events this week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_id>203b055bfd2632007f44bbe7ce0630f5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_id>6c3b055bfd2632007f44bbe7ce0630ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                        <value>2bc3c597fd2632007f44bbe7ce06305a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_id>a43b055bfd2632007f44bbe7ce0630f3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:27">603b055bfd2632007f44bbe7ce0630ef</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:27</sys_created_on>
+                        <sys_id>e83b055bfd2632007f44bbe7ce0630f3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:27</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Marketing Events with seats available per City</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                <sys_id>905bc55bfd2632007f44bbe7ce06308e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_widget>
+                        <posx>8</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>145bc55bfd2632007f44bbe7ce063093</sys_id>
+                        <sys_mod_count>4</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_145bc55bfd2632007f44bbe7ce063093</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:48</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_id>185bc55bfd2632007f44bbe7ce06308e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                        <value>8e9789d7fd2632007f44bbe7ce0630f6</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_id>1c5bc55bfd2632007f44bbe7ce063091</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_id>505bc55bfd2632007f44bbe7ce063092</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                        <value>Marketing Events with seats available per City</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_id>d45bc55bfd2632007f44bbe7ce063091</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:59">905bc55bfd2632007f44bbe7ce06308e</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:59</sys_created_on>
+                        <sys_id>d85bc55bfd2632007f44bbe7ce063092</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:59</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Percent of Marketing Events at Capacity</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                <sys_id>ad7b495bfd2632007f44bbe7ce06306f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>14</height>
+                        <portal_widget display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_widget>
+                        <posx>8</posx>
+                        <posy>14</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>ed7b495bfd2632007f44bbe7ce063074</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_ed7b495bfd2632007f44bbe7ce063074</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:48</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_id>257b495bfd2632007f44bbe7ce063070</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                        <value>7f2acd1bfd2632007f44bbe7ce063006</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_id>2d7b495bfd2632007f44bbe7ce063073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                        <value>Percent of Marketing Events at Capacity</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_id>a17b495bfd2632007f44bbe7ce063073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_id>a57b495bfd2632007f44bbe7ce063074</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:29:37">ad7b495bfd2632007f44bbe7ce06306f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:29:37</sys_created_on>
+                        <sys_id>e57b495bfd2632007f44bbe7ce063073</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:29:37</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">e7da055bfd2632007f44bbe7ce0630ff</page>
+                <summary>Marketing Events with seats available</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                <sys_id>c73bc55bfd2632007f44bbe7ce06301d</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">27da455bfd2632007f44bbe7ce063000</grid_canvas>
+                        <height>17</height>
+                        <portal_widget display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_widget>
+                        <posx>3</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_customer_update>true</sys_customer_update>
+                        <sys_id>0b3bc55bfd2632007f44bbe7ce063022</sys_id>
+                        <sys_mod_count>8</sys_mod_count>
+                        <sys_name>27da455bfd2632007f44bbe7ce063000</sys_name>
+                        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+                        <sys_policy/>
+                        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_0b3bc55bfd2632007f44bbe7ce063022</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:32:35</sys_updated_on>
+                        <width>5</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_id>033bc55bfd2632007f44bbe7ce063021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_id>473bc55bfd2632007f44bbe7ce063021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                        <value>Marketing Events with seats available</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_id>4f3bc55bfd2632007f44bbe7ce06301d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                        <value>c29789d7fd2632007f44bbe7ce0630f5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_id>cb3bc55bfd2632007f44bbe7ce063020</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2017-05-10 13:28:37">c73bc55bfd2632007f44bbe7ce06301d</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-05-10 20:28:37</sys_created_on>
+                        <sys_id>cf3bc55bfd2632007f44bbe7ce063021</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-05-10 20:28:37</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

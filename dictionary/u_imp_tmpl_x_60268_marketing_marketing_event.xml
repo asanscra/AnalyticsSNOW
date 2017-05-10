@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 60268 Marketing Marketing Event" max_length="40" name="u_imp_tmpl_x_60268_marketing_marketing_event" type="collection">
+        <element attributes="import_attribute_name=Budget" label="Budget" max_length="20" name="u_budget" type="integer"/>
+        <element attributes="import_attribute_name=City,edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="import_attribute_name=End date" label="End date" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Number of attendees expected" max_length="40" name="u_number_of_attendees_expected" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of attendees registered" max_length="40" name="u_number_of_at_ees_registered" type="string"/>
+        <element attributes="import_attribute_name=Sponsor,edge_encryption_enabled=true" label="Sponsor" max_length="40" name="u_sponsor" type="string"/>
+        <element attributes="import_attribute_name=Start date" label="Start date" max_length="40" name="u_start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+    </element>
+</database>
