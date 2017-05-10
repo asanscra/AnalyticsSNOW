@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_buckets">
+    <pa_buckets action="INSERT_OR_UPDATE">
+        <bucket_group display_value="Event Length (Days)">99605ddbfd2632007f44bbe7ce06305a</bucket_group>
+        <end/>
+        <name>&gt;4 Days</name>
+        <start>5</start>
+        <sys_class_name>pa_buckets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 20:52:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6801ddbfd2632007f44bbe7ce063035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&gt;4 Days</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_60268_marketing">9bac8d9e0fe1320070783b6ce1050eb8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">9bac8d9e0fe1320070783b6ce1050eb8</sys_scope>
+        <sys_update_name>pa_buckets_b6801ddbfd2632007f44bbe7ce063035</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 20:52:03</sys_updated_on>
+    </pa_buckets>
+</record_update>
